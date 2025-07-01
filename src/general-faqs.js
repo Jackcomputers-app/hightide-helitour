@@ -25,4 +25,9 @@ export const GeneralFAQs = [
     title: "Are headsets included in the tour?",
     content: `Yes, headsets are included in the tour. They allow you to communicate with the pilot and other passengers, ensuring you don't miss any of the commentary or exciting details during the tour.`,
   },
+  {
+    title: "What is the diffrence between Airplane and helicopter?",
+    content: 'Due to the The limitations of the airplane the pilot will fly higher compared to the helicopter can fly lower'
+    
+  }
 ];
