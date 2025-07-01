@@ -22,3 +22,34 @@ npm run build
 npm run dev
 
 ```
+
+Manange Git
+
+```bash
+
+git checkout main
+
+```
+
+```bash
+
+git pull origin main
+
+```
+
+```bash
+
+git add .
+
+```
+
+```bash
+git commit -m "what did I do?"
+
+```
+
+```bash
+
+git push origin main
+
+```
