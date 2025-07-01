@@ -4,7 +4,7 @@ Install NPM
 
 ```bash
 
-npm --version
+npm -version
 
 ```
 ```bash
